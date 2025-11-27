@@ -1,5 +1,5 @@
-./vs
-./build
-./dist
+/vs
+/build
+/dist
 /.vs
 /build/x64-debug
